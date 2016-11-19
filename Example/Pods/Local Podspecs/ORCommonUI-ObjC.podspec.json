@@ -1,0 +1,23 @@
+{
+  "name": "ORCommonUI-ObjC",
+  "version": "1.0.0",
+  "summary": "ORCommonUI-ObjC - UI extensions, custom views, controllers.",
+  "description": "UIView+Extended, UIView+Mask, ORTopAlignedLabel, UIScrollView+DisableDelaysContentTouches, UIImage+ImageWithAlpha, etc.",
+  "homepage": "https://bitbucket.org/omegarinc/orcommonui-objc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Maxim Soloviev": "mswok85@gmail.com"
+  },
+  "source": {
+    "git": "https://bitbucket.org/omegarinc/orcommonui-objc.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ORCommonUI-ObjC/Classes/**/*",
+  "frameworks": "UIKit"
+}

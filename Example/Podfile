@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ORCommonUI-ObjC_Example' do
+  pod 'ORCommonUI-ObjC', :path => '../'
+
+  target 'ORCommonUI-ObjC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
