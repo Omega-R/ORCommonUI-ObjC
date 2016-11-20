@@ -12,7 +12,7 @@
 
 - (void)drawTextInRect:(CGRect)rect
 {
-    if (self.text && self.topAligned) {
+    if (self.text && self.topAlignmentEnabled) {
         NSMutableDictionary *attributes = [NSMutableDictionary dictionary];
         attributes[NSFontAttributeName] = self.font;
         

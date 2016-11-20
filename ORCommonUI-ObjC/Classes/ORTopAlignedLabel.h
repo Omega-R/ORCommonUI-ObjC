@@ -11,6 +11,6 @@
 IB_DESIGNABLE
 @interface ORTopAlignedLabel : UILabel
 
-@property (nonatomic) IBInspectable BOOL topAligned;
+@property (nonatomic) IBInspectable BOOL topAlignmentEnabled;
 
 @end
