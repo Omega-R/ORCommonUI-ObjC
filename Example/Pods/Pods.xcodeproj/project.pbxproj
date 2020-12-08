@@ -51,7 +51,7 @@
 		03526C19BED451E8BA786186BF9FBB1E /* ORTopAlignedLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ORTopAlignedLabel.h; sourceTree = "<group>"; };
 		07C3234BCDD07980DEA09A041F9D0CDF /* UIView+Mask.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+Mask.h"; sourceTree = "<group>"; };
 		162EAAF8AFED722396020E0C8D2995E8 /* Pods-ORCommonUI-ObjC_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ORCommonUI-ObjC_Tests-dummy.m"; sourceTree = "<group>"; };
-		1BFD21614546A625F97E31A481118FA6 /* Pods_ORCommonUI_ObjC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ORCommonUI_ObjC_Tests.framework; path = "Pods-ORCommonUI-ObjC_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1BFD21614546A625F97E31A481118FA6 /* Pods_ORCommonUI_ObjC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ORCommonUI_ObjC_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CEFF5934CB9F7317187320D1AD85064 /* ORUIGroup.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ORUIGroup.m; sourceTree = "<group>"; };
 		1EA37392E476C5A5A5A86431EEC4EB02 /* UIScrollView+DisableDelaysContentTouches.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+DisableDelaysContentTouches.h"; sourceTree = "<group>"; };
 		1EB1083ABADAF2F32BF78B1C69285213 /* ORCommonUI-ObjC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ORCommonUI-ObjC-dummy.m"; sourceTree = "<group>"; };
@@ -63,16 +63,16 @@
 		56D3D02057A2343C86A57D2EED9F2A0D /* ORCommonUI-ObjC.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "ORCommonUI-ObjC.xcconfig"; sourceTree = "<group>"; };
 		616BEB51ECCAD129BDBCB7A956B56CC6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6AD2406F59C716056D197B95F9C78AD4 /* UIImage+ImageWithAlpha.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImage+ImageWithAlpha.h"; sourceTree = "<group>"; };
-		6C865C2EEA5C1FB4E6FCB9078B9CE837 /* ORCommonUI-ObjC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "ORCommonUI-ObjC.modulemap"; sourceTree = "<group>"; };
+		6C865C2EEA5C1FB4E6FCB9078B9CE837 /* ORCommonUI-ObjC.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "ORCommonUI-ObjC.modulemap"; sourceTree = "<group>"; };
 		6E36EE425FE0872880D971D0287AC24A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		741A83C14049BC588DC859772D8ECD94 /* Pods-ORCommonUI-ObjC_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ORCommonUI-ObjC_Example-resources.sh"; sourceTree = "<group>"; };
 		7D2EC783D534E1F9CC88C39853531402 /* Pods-ORCommonUI-ObjC_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ORCommonUI-ObjC_Example.release.xcconfig"; sourceTree = "<group>"; };
 		7EC994CDC2D681BA26389F78A7E4B325 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		814B7227548B8D3DE3B9B290BE039D56 /* UIImage+ImageWithAlpha.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ImageWithAlpha.m"; sourceTree = "<group>"; };
-		8516E10A72EE531F958CA7EFD2F9A217 /* Pods_ORCommonUI_ObjC_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ORCommonUI_ObjC_Example.framework; path = "Pods-ORCommonUI-ObjC_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8516E10A72EE531F958CA7EFD2F9A217 /* Pods_ORCommonUI_ObjC_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ORCommonUI_ObjC_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5D917253E0562CCB805624EA57C0C2 /* GraphicHelpers.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = GraphicHelpers.m; sourceTree = "<group>"; };
-		9285D1A5C0D12BA4F347A37C1932E8BA /* Pods-ORCommonUI-ObjC_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ORCommonUI-ObjC_Example.modulemap"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9285D1A5C0D12BA4F347A37C1932E8BA /* Pods-ORCommonUI-ObjC_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ORCommonUI-ObjC_Example.modulemap"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9568E159AFD8E4D85FCDF38A89465DCE /* UITextView+Extended.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextView+Extended.m"; sourceTree = "<group>"; };
 		9F017498A24B70DC505AB2E7A3C1A08A /* Pods-ORCommonUI-ObjC_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ORCommonUI-ObjC_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		A014C0ECA4B9E8BD8E2235F6EE141D8D /* Pods-ORCommonUI-ObjC_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ORCommonUI-ObjC_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -86,8 +86,8 @@
 		B2144A04C8E244743B0AF10C8B7F0517 /* Pods-ORCommonUI-ObjC_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ORCommonUI-ObjC_Example-dummy.m"; sourceTree = "<group>"; };
 		B6AD09D354A80FA7C79017D2EE004A17 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B92A6F8568D451B3BA78BD198B6FC124 /* Pods-ORCommonUI-ObjC_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ORCommonUI-ObjC_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B95458B39669F79A9B945EC66B9439E9 /* ORCommonUI_ObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ORCommonUI_ObjC.framework; path = "ORCommonUI-ObjC.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF8846A698030272BE0A0C9AEE28084A /* Pods-ORCommonUI-ObjC_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ORCommonUI-ObjC_Tests.modulemap"; sourceTree = "<group>"; };
+		B95458B39669F79A9B945EC66B9439E9 /* ORCommonUI_ObjC.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ORCommonUI_ObjC.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF8846A698030272BE0A0C9AEE28084A /* Pods-ORCommonUI-ObjC_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ORCommonUI-ObjC_Tests.modulemap"; sourceTree = "<group>"; };
 		C88CB3B3D8B1115E37400834B4C4847E /* UIScrollView+DisableDelaysContentTouches.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+DisableDelaysContentTouches.m"; sourceTree = "<group>"; };
 		CE5A2FC15F37E58CB8032ED9BF39FCB0 /* Pods-ORCommonUI-ObjC_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ORCommonUI-ObjC_Example-umbrella.h"; sourceTree = "<group>"; };
 		D100D80C6233EB25BCBA20536D111619 /* Pods-ORCommonUI-ObjC_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ORCommonUI-ObjC_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -151,7 +151,6 @@
 				07C3234BCDD07980DEA09A041F9D0CDF /* UIView+Mask.h */,
 				29BFCB212646C41FF05C68B9D1C66EDE /* UIView+Mask.m */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -229,7 +228,6 @@
 			children = (
 				03B35C312A21CD219E785AF23648D390 /* Classes */,
 			);
-			name = "ORCommonUI-ObjC";
 			path = "ORCommonUI-ObjC";
 			sourceTree = "<group>";
 		};
@@ -384,6 +382,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -608,7 +607,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
@@ -652,7 +651,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
